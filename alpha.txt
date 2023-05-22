@@ -1,0 +1,4 @@
+doubts
+mkdir
+cd
+git init
